@@ -1,1 +1,26 @@
 
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DAILY MULTAN EXPRESS - پریس کارڈ</title>
+<style>
+body {background: #f0f2f5; font-family: sans-serif; text-align: center; padding: 20px; direction: rtl;}
+.box {background: white; max-width: 600px; margin: auto; padding: 30px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);}
+h1 {color: #001f54; font-size: 28px;}
+h2 {color: #d62828; font-size: 22px;}
+img {width: 100%; max-width: 500px; border-radius: 10px; border: 3px solid #001f54; margin: 20px 0;}
+p {font-size: 18px; color: #333; line-height: 1.8;}
+</style>
+</head>
+<body>
+<div class="box">
+    <h1>DAILY MULTAN EXPRESS</h1>
+    <h2>سچ کی رفتار</h2>
+    <p>آپ ہمارے آفیشل پریس کارڈ کی ویریفکیشن پیج پر ہیں</p>
+    <img src="20260531_103031.jpg" alt="Press Card">
+    <p><b>نوٹ:</b> یہ کارڈ صرف ویریفکیشن کے لیے ہے۔</p>
+</div>
+</body>
+</html>
