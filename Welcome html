@@ -1,26 +1,43 @@
-
 <!DOCTYPE html>
 <html lang="ur" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>DAILY MULTAN EXPRESS - پریس کارڈ</title>
+<title>Shar Mahi - Press Card Verification</title>
 <style>
-body {background: #f0f2f5; font-family: sans-serif; text-align: center; padding: 20px; direction: rtl;}
-.box {background: white; max-width: 600px; margin: auto; padding: 30px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);}
-h1 {color: #001f54; font-size: 28px;}
-h2 {color: #d62828; font-size: 22px;}
-img {width: 100%; max-width: 500px; border-radius: 10px; border: 3px solid #001f54; margin: 20px 0;}
-p {font-size: 18px; color: #333; line-height: 1.8;}
+body{font-family:Arial,sans-serif;background:#f4f4f4;margin:0;padding:20px;direction:rtl}
+.card{max-width:700px;margin:auto;background:#fff;border-radius:12px;padding:30px;box-shadow:0 4px 15px rgba(0,0,0,.15);border-top:5px solid #002b6b}
+.header{text-align:center;color:#002b6b;border-bottom:2px solid #eee;padding-bottom:15px}
+.status{background:#28a745;color:white;padding:12px;border-radius:8px;text-align:center;font-weight:bold;margin:20px 0;font-size:18px}
+table{width:100%;border-collapse:collapse;margin-top:20px}
+td{padding:12px;border-bottom:1px solid #eee;font-size:16px}
+.label{font-weight:bold;width:40%;color:#002b6b}
+.footer{margin-top:25px;text-align:center;color:#666;border-top:2px solid #eee;padding-top:15px}
 </style>
 </head>
 <body>
-<div class="box">
-    <h1>DAILY MULTAN EXPRESS</h1>
-    <h2>سچ کی رفتار</h2>
-    <p>آپ ہمارے آفیشل پریس کارڈ کی ویریفکیشن پیج پر ہیں</p>
-    <img src="20260531_103031.jpg" alt="Press Card">
-    <p><b>نوٹ:</b> یہ کارڈ صرف ویریفکیشن کے لیے ہے۔</p>
+<div class="card">
+<div class="header">
+<h1>روزنامہ ملتان ایکسپریس</h1>
+<p>سچ کی رفتار</p>
+<h3>پریس کارڈ تصدیق</h3>
+</div>
+<div class="status">✓ تصدیق شدہ ٹیم ممبر</div>
+<table>
+<tr><td class="label">نام</td><td>Shar Mahi</td></tr>
+<tr><td class="label">شناختی کارڈ</td><td>33106-0499963-7</td></tr>
+<tr><td class="label">عہدہ</td><td>ڈسٹرکٹ رپورٹر</td></tr>
+<tr><td class="label">پریس کارڈ نمبر</td><td>RME 100-05-26</td></tr>
+<tr><td class="label">اجراء کی تاریخ</td><td>25/05/2026</td></tr>
+<tr><td class="label">تاریخ معیاد</td><td>25/05/2027</td></tr>
+<tr><td class="label">ممبر فون</td><td>03151759559</td></tr>
+<tr><td class="label">سی ای او فون</td><td>03066632477</td></tr>
+<tr><td class="label">سٹیٹس</td><td>فعال و تصدیق شدہ</td></tr>
+</table>
+<div class="footer">
+<h3>Daily Multan Express</h3>
+<p>CEO: رانا سہیل نواز</p>
+</div>
 </div>
 </body>
 </html>
