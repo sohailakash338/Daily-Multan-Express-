@@ -1,30 +1,125 @@
 <!DOCTYPE html>
-<html lang="ur" dir="rtl">
+<html lang="ur">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Multan Express</title>
-<link rel="stylesheet" href="style.css">
+<title>Daily Multan Express - Verification</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+    padding:20px;
+}
+.card{
+    max-width:700px;
+    margin:auto;
+    background:#fff;
+    border-radius:10px;
+    padding:25px;
+    box-shadow:0 0 10px rgba(0,0,0,.15);
+}
+.header{
+    text-align:center;
+    color:#002b6b;
+}
+.status{
+    background:#28a745;
+    color:white;
+    padding:10px;
+    border-radius:5px;
+    text-align:center;
+    font-weight:bold;
+    margin:15px 0;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+td{
+    padding:10px;
+    border-bottom:1px solid #ddd;
+}
+.label{
+    font-weight:bold;
+    width:40%;
+}
+.footer{
+    margin-top:20px;
+    text-align:center;
+    color:#555;
+}
+</style>
 </head>
+
 <body>
-<header>
-<h1>DAILY MULTAN EXPRESS</h1>
-<p>سچ کی رفتار</p>
-</header>
 
-<main>
-<h2>خوش آمدید</h2>
-<p>یہ ڈیلی ملتان ایکسپریس کی نمونہ ویب سائٹ ہے۔</p>
+<div class="card">
 
-<h3>ادارے کی معلومات</h3>
-<p>یہاں آپ ادارے، نمائندگان، پریس کارڈ ویریفکیشن اور رابطہ معلومات شامل کر سکتے ہیں۔</p>
+    <div class="header">
+        <h1>DAILY MULTAN EXPRESS</h1>
+        <h3>PRESS CARD VERIFICATION</h3>
+    </div>
 
-<h3>پریس کارڈ ویریفکیشن</h3>
-<p>اس صفحے کو QR کوڈ کے ساتھ منسلک کیا جا سکتا ہے۔</p>
-</main>
+    <div class="status">
+        ✓ VERIFIED TEAM MEMBER
+    </div>
 
-<footer>
-<p>© Daily Multan Express</p>
-</footer>
+    <table>
+        <tr>
+            <td class="label">Name</td>
+            <td>Shar Mahi</td>
+        </tr>
+
+        <tr>
+            <td class="label">CNIC</td>
+            <td>33106-0499963-7</td>
+        </tr>
+
+        <tr>
+            <td class="label">Designation</td>
+            <td>District Reporter</td>
+        </tr>
+
+        <tr>
+            <td class="label">Press Card No</td>
+            <td>RME 100-05-26</td>
+        </tr>
+
+        <tr>
+            <td class="label">Issue Date</td>
+            <td>25/05/2026</td>
+        </tr>
+
+        <tr>
+            <td class="label">Valid Until</td>
+            <td>25/05/2027</td>
+        </tr>
+
+        <tr>
+            <td class="label">Member Phone</td>
+            <td>03151759559</td>
+        </tr>
+
+        <tr>
+            <td class="label">CEO Phone</td>
+            <td>03066632477</td>
+        </tr>
+
+        <tr>
+            <td class="label">Status</td>
+            <td>Active & Verified</td>
+        </tr>
+    </table>
+
+    <div class="footer">
+        <h3>Daily Multan Express</h3>
+        <p>سچ کی رفتار</p>
+        <p>CEO: Rana Sohail Nawaz</p>
+    </div>
+
+</div>
+
 </body>
 </html>
