@@ -1,125 +1,43 @@
 <!DOCTYPE html>
-<html lang="ur">
+<html lang="ur" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Multan Express - Verification</title>
-
+<title>Shar Mahi - Press Card Verification</title>
 <style>
-body{
-    font-family: Arial, sans-serif;
-    background:#f4f4f4;
-    margin:0;
-    padding:20px;
-}
-.card{
-    max-width:700px;
-    margin:auto;
-    background:#fff;
-    border-radius:10px;
-    padding:25px;
-    box-shadow:0 0 10px rgba(0,0,0,.15);
-}
-.header{
-    text-align:center;
-    color:#002b6b;
-}
-.status{
-    background:#28a745;
-    color:white;
-    padding:10px;
-    border-radius:5px;
-    text-align:center;
-    font-weight:bold;
-    margin:15px 0;
-}
-table{
-    width:100%;
-    border-collapse:collapse;
-}
-td{
-    padding:10px;
-    border-bottom:1px solid #ddd;
-}
-.label{
-    font-weight:bold;
-    width:40%;
-}
-.footer{
-    margin-top:20px;
-    text-align:center;
-    color:#555;
-}
+body{font-family:Arial,sans-serif;background:#f4f4f4;margin:0;padding:20px;direction:rtl}
+.card{max-width:700px;margin:auto;background:#fff;border-radius:12px;padding:30px;box-shadow:0 4px 15px rgba(0,0,0,.15);border-top:5px solid #002b6b}
+.header{text-align:center;color:#002b6b;border-bottom:2px solid #eee;padding-bottom:15px}
+.status{background:#28a745;color:white;padding:12px;border-radius:8px;text-align:center;font-weight:bold;margin:20px 0;font-size:18px}
+table{width:100%;border-collapse:collapse;margin-top:20px}
+td{padding:12px;border-bottom:1px solid #eee;font-size:16px}
+.label{font-weight:bold;width:40%;color:#002b6b}
+.footer{margin-top:25px;text-align:center;color:#666;border-top:2px solid #eee;padding-top:15px}
 </style>
 </head>
-
 <body>
-
 <div class="card">
-
-    <div class="header">
-        <h1>DAILY MULTAN EXPRESS</h1>
-        <h3>PRESS CARD VERIFICATION</h3>
-    </div>
-
-    <div class="status">
-        ✓ VERIFIED TEAM MEMBER
-    </div>
-
-    <table>
-        <tr>
-            <td class="label">Name</td>
-            <td>Shar Mahi</td>
-        </tr>
-
-        <tr>
-            <td class="label">CNIC</td>
-            <td>33106-0499963-7</td>
-        </tr>
-
-        <tr>
-            <td class="label">Designation</td>
-            <td>District Reporter</td>
-        </tr>
-
-        <tr>
-            <td class="label">Press Card No</td>
-            <td>RME 100-05-26</td>
-        </tr>
-
-        <tr>
-            <td class="label">Issue Date</td>
-            <td>25/05/2026</td>
-        </tr>
-
-        <tr>
-            <td class="label">Valid Until</td>
-            <td>25/05/2027</td>
-        </tr>
-
-        <tr>
-            <td class="label">Member Phone</td>
-            <td>03151759559</td>
-        </tr>
-
-        <tr>
-            <td class="label">CEO Phone</td>
-            <td>03066632477</td>
-        </tr>
-
-        <tr>
-            <td class="label">Status</td>
-            <td>Active & Verified</td>
-        </tr>
-    </table>
-
-    <div class="footer">
-        <h3>Daily Multan Express</h3>
-        <p>سچ کی رفتار</p>
-        <p>CEO: Rana Sohail Nawaz</p>
-    </div>
-
+<div class="header">
+<h1>روزنامہ ملتان ایکسپریس</h1>
+<p>سچ کی رفتار</p>
+<h3>پریس کارڈ تصدیق</h3>
 </div>
-
+<div class="status">✓ تصدیق شدہ ٹیم ممبر</div>
+<table>
+<tr><td class="label">نام</td><td>Shar Mahi</td></tr>
+<tr><td class="label">شناختی کارڈ</td><td>33106-0499963-7</td></tr>
+<tr><td class="label">عہدہ</td><td>ڈسٹرکٹ رپورٹر</td></tr>
+<tr><td class="label">پریس کارڈ نمبر</td><td>RME 100-05-26</td></tr>
+<tr><td class="label">اجراء کی تاریخ</td><td>25/05/2026</td></tr>
+<tr><td class="label">تاریخ معیاد</td><td>25/05/2027</td></tr>
+<tr><td class="label">ممبر فون</td><td>03151759559</td></tr>
+<tr><td class="label">سی ای او فون</td><td>03066632477</td></tr>
+<tr><td class="label">سٹیٹس</td><td>فعال و تصدیق شدہ</td></tr>
+</table>
+<div class="footer">
+<h3>Daily Multan Express</h3>
+<p>CEO: رانا سہیل نواز</p>
+</div>
+</div>
 </body>
 </html>
